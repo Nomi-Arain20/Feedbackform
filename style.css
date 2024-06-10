@@ -1,0 +1,29 @@
+body{
+    background:rgb(216, 226, 159);
+}
+.ABC{
+    background-color: rgb(204, 212, 212);
+    text-decoration: underline;
+    text-align: center;
+    font-size: 3rem;
+    font-style: italic;
+}
+input{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.Lab{
+    text-align: center;
+}
+.BBC{
+    height: 2rem;
+}
+.BTN{
+    background: #142c5a;
+    color: aliceblue;
+    border: 2px solid rgb(245, 235, 235);
+    justify-content: center;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+}
